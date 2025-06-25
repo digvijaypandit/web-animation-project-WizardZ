@@ -2,6 +2,10 @@
 
 This project is an animated website created using **HTML**, **CSS**, **JavaScript**, and **GSAP (GreenSock Animation Platform)**. The animations on the site provide smooth and engaging transitions for various elements, enhancing the overall user experience.
 
+## 📺 Live Demo
+
+[View Live Site](https://digvijaypandit.github.io/web-animation-project-WizardZ/)
+
 
 ## Features
 
